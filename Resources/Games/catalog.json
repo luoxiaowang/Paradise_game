@@ -1,0 +1,28 @@
+[
+  {
+    "id": "tank1990",
+    "title": "坦克大战",
+    "subtitle": "烟山版 · Tank 1990",
+    "runner": "nes",
+    "file": "tank1990.nes",
+    "sha256": "ec453e7e3cc1d49d11d5860ced7f9e1235e2c7d33927bd6073b631754dc08dbb",
+    "preview": "tank-preview.png",
+    "players": "1–2 人",
+    "instructions": "原版菜单：方向键选择模式 → 开始键确认 → 选择键切换单 / 双人 → 开始键进入关卡",
+    "actionA": "射击",
+    "actionB": "射击"
+  },
+  {
+    "id": "mario",
+    "title": "超级玛丽",
+    "subtitle": "FC 原版 · Super Mario Bros. · 1985",
+    "runner": "nes",
+    "file": "mario.nes",
+    "sha256": "f61548fdf1670cffefcc4f0b7bdcdd9eaba0c226e3b74f8666071496988248de",
+    "preview": "mario-preview.png",
+    "players": "1–2 人 · 轮流",
+    "instructions": "原版菜单：玩家 1 选择键切换单 / 双人，开始键进入；双人按原版规则轮流闯关。",
+    "actionA": "跳跃",
+    "actionB": "加速 / 火球"
+  }
+]

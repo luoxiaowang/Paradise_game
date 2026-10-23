@@ -1,0 +1,13 @@
+{
+  "game": "Tank 1990 (China)",
+  "source": "https://nesninja.com/downloadsnes/Tank%201990%20%28Ch%29.nes",
+  "retrieved": "2026-10-22",
+  "sha256": "ec453e7e3cc1d49d11d5860ced7f9e1235e2c7d33927bd6073b631754dc08dbb",
+  "size": 40976,
+  "prg_crc32": "3b5b221a",
+  "chr_crc32": "5e49fac7",
+  "reference": "https://github.com/mamedev/mame/blob/master/hash/nes.xml",
+  "reference_status": "baddump; matches catalog but not a verified perfect cartridge dump",
+  "core": "https://github.com/libretro/nestopia",
+  "core_commit": "06a8949e0b3cf60e3a38a374b1426bf40fccb9a0"
+}

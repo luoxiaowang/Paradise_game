@@ -1,0 +1,10 @@
+{
+  "title": "Super Mario Bros. (World, 1985)",
+  "source": "https://raw.githubusercontent.com/infoplat/jsnes/master/roms/rom1/%28W%29%20Super%20Mario%20Bros.%20%5B%21%5D.nes",
+  "sha256": "f61548fdf1670cffefcc4f0b7bdcdd9eaba0c226e3b74f8666071496988248de",
+  "prgCRC32": "5cf548d3",
+  "chrCRC32": "867b51ad",
+  "reference": "https://github.com/mamedev/mame/blob/master/hash/nes.xml",
+  "referenceEntry": "smb1",
+  "verified": "2026-10-23"
+}
